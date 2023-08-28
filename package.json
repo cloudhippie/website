@@ -1,0 +1,31 @@
+{
+  "private": true,
+  "name": "website",
+  "version": "1.0.0",
+  "description": "Assets for Cloudhippie website",
+  "homepage": "https://github.com/cloudhippie/website#readme",
+  "license": "CC-BY-SA-4.0",
+  "author": {
+    "name": "Thomas Boerger",
+    "email": "thomas@cloudhippie.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudhippie/website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cloudhippie/website/issues",
+    "email": "thomas@cloudhippie.de"
+  },
+  "config": {},
+  "dependencies": {
+    "autoprefixer": "10.4.14",
+    "bootstrap": "5.3.1",
+    "bootstrap-icons": "1.10.5",
+    "postcss": "8.4.27",
+    "postcss-cli": "10.1.0"
+  },
+  "keywords": [
+    "cloudhippie"
+  ]
+}

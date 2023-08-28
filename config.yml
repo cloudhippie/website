@@ -1,0 +1,38 @@
+---
+baseurl: /
+languageCode: en-us
+title: Cloudhippie
+disableKinds: RSS
+
+params:
+  Description: Application hosting platform
+  Author: Cloudhippie
+  Website: https://cloudhippie.de
+  Github: cloudhippie
+
+module:
+  mounts:
+    - source: content
+      target: content
+    - source: static
+      target: static
+    - source: layouts
+      target: layouts
+    - source: data
+      target: data
+    - source: assets
+      target: assets
+    - source: i18n
+      target: i18n
+    - source: archetypes
+      target: archetypes
+
+    - source: node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff
+      target: static/fonts/bootstrap-icons.woff
+    - source: node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2
+      target: static/fonts/bootstrap-icons.woff2
+
+    - source: node_modules/bootstrap/dist/js/bootstrap.bundle.min.js
+      target: assets/vendor/bootstrap.js
+
+...

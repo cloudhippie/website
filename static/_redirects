@@ -1,0 +1,4 @@
+/ /usage/overview 301!
+
+http://cloudhippie-website.netlify.app/* https://cloudhippie.de/:splat 301!
+https://cloudhippie-website.netlify.app/* https://cloudhippie.de/:splat 301!

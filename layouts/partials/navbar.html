@@ -1,0 +1,39 @@
+<header>
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<div class="container">
+			<a class="navbar-brand" href="{{ .Site.BaseURL }}">
+				{{ .Site.Title }}
+			</a>
+
+			<button
+				class="navbar-toggler"
+				type="button"
+				data-toggle="collapse"
+				data-target="#navbar"
+				aria-controls="navbar"
+				aria-expanded="false"
+				aria-label="Menu">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div id="navbar" class="collapse navbar-collapse">
+				<ul class="navbar-nav mr-auto">
+					{{ $currentNode := . }}{{ range .Site.Menus.main.ByWeight }}
+						<li class="nav-item {{if $currentNode.IsMenuCurrent "main" . }}active{{ end }}">
+							<a href="{{.URL}}" class="nav-link">
+								{{ .Pre }}
+								{{ .Name }}
+							</a>
+						</li>
+					{{ end }}
+					<li class="nav-item">
+						<a href="https://github.com/{{ .Site.Params.Github }}" class="nav-link">
+							<i class="bi bi-github"></i>
+							Github
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+</header>
