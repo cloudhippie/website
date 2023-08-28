@@ -1,7 +1,7 @@
 ---
 repository:
   name: website
-  description: "Cloudhippie: Website"
+  description: Website with documentation
   homepage: https://cloudhippie.de
   topics: cloudhippie, website, hugo
 
