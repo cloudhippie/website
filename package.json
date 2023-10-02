@@ -20,7 +20,7 @@
   "config": {},
   "dependencies": {
     "autoprefixer": "10.4.16",
-    "bootstrap": "5.3.1",
+    "bootstrap": "5.3.2",
     "bootstrap-icons": "1.10.5",
     "postcss": "8.4.27",
     "postcss-cli": "10.1.0"
