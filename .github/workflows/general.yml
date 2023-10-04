@@ -2,6 +2,7 @@
 name: general
 
 "on":
+  workflow_dispatch:
   push:
     branches:
       - master
