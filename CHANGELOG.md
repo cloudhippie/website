@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.1](https://github.com/cloudhippie/website/compare/v2.0.0...v2.0.1) (2024-01-08)
+
+
+### Bugfixes
+
+* **deps:** update dependency bootstrap-icons to v1.11.3 ([dd58a5f](https://github.com/cloudhippie/website/commit/dd58a5ff8c34221890dfc40b1f097b0ef60db2df))
+* **deps:** update dependency postcss to v8.4.33 ([561015b](https://github.com/cloudhippie/website/commit/561015be19cbff57cb0f0cf81fb890ae0fc49c84))
+
 ## [2.0.0](https://github.com/cloudhippie/website/compare/v1.1.2...v2.0.0) (2023-12-11)
 
 
