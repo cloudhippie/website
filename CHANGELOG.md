@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/cloudhippie/website/compare/v2.0.1...v2.0.2) (2024-01-22)
+
+
+### Bugfixes
+
+* **deps:** update dependency autoprefixer to v10.4.17 ([6639af1](https://github.com/cloudhippie/website/commit/6639af185c49d15bba102e7ce326c50c95a8b8c3))
+
 ## [2.0.1](https://github.com/cloudhippie/website/compare/v2.0.0...v2.0.1) (2024-01-08)
 
 
