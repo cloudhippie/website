@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.0.6](https://github.com/cloudhippie/website/compare/v2.0.5...v2.0.6) (2024-03-25)
+
+
+### Bugfixes
+
+* **deps:** update dependency autoprefixer to v10.4.19 ([a45eaa8](https://github.com/cloudhippie/website/commit/a45eaa87b562410e107e813393d5d71b79a85642))
+* **deps:** update dependency postcss to v8.4.37 ([883b46a](https://github.com/cloudhippie/website/commit/883b46a28de54c9df8ca63378cf8b40a5708798e))
+* **deps:** update dependency postcss to v8.4.38 ([0143769](https://github.com/cloudhippie/website/commit/0143769d2dfb6f001ccc8540938bd93c8abbeec7))
+
 ## [2.0.5](https://github.com/cloudhippie/website/compare/v2.0.4...v2.0.5) (2024-03-18)
 
 
