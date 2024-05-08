@@ -25,7 +25,7 @@
             _1password
             gnumake
             hugo
-            nodejs-18_x
+            nodejs_20
             nodePackages.npm
           ];
         };
