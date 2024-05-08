@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.0](https://github.com/cloudhippie/website/compare/v2.0.6...v2.1.0) (2024-05-08)
+
+
+### Features
+
+* upgrade nodejs to 20.x ([e659eb0](https://github.com/cloudhippie/website/commit/e659eb09674d17f424df945c871fe976b45ee3ed))
+
+
+### Bugfixes
+
+* remove tbd from index page ([277e451](https://github.com/cloudhippie/website/commit/277e451f8e4748d205b6852aaabc903f13a7603e))
+
 ## [2.0.6](https://github.com/cloudhippie/website/compare/v2.0.5...v2.0.6) (2024-03-25)
 
 
