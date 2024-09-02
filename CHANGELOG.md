@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.1.5](https://github.com/cloudhippie/website/compare/v2.1.4...v2.1.5) (2024-09-02)
+
+
+### Bugfixes
+
+* **deps:** update dependency postcss to v8.4.42 ([d660696](https://github.com/cloudhippie/website/commit/d66069695a1d4f49abf8d68c8bad68c6df73f159))
+* **deps:** update dependency postcss to v8.4.43 ([83f8385](https://github.com/cloudhippie/website/commit/83f838531088d9d0722d0646e27ca53e763d4d89))
+
 ## [2.1.4](https://github.com/cloudhippie/website/compare/v2.1.3...v2.1.4) (2024-08-12)
 
 
