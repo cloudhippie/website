@@ -32,7 +32,7 @@
 		{{ end }}
 
 		{{ $options := (dict "targetPath" "website.css" "outputStyle" "compressed" "enableSourceMap" true) }}
-		{{ $style := resources.Get "website.scss" | resources.ToCSS $options | resources.PostCSS | resources.Minify | resources.Fingerprint "sha512" }}
+		{{ $style := resources.Get "website.scss" | css.Sass $options | css.PostCSS | resources.Minify | resources.Fingerprint "sha512" }}
 		<link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
 	</head>
 	<body>
