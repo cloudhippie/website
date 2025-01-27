@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.2.0](https://github.com/cloudhippie/website/compare/v2.1.9...v2.2.0) (2025-01-27)
+
+
+### Features
+
+* **deps:** update dependency postcss to v8.5.1 ([#102](https://github.com/cloudhippie/website/issues/102)) ([4417eff](https://github.com/cloudhippie/website/commit/4417eff5972875ad137957171716ec026b6411df))
+* update layout for newer hugo versions ([7b1903e](https://github.com/cloudhippie/website/commit/7b1903edac384be20d562338ae268458e22642d4))
+
 ## [2.1.9](https://github.com/cloudhippie/website/compare/v2.1.8...v2.1.9) (2024-11-18)
 
 
