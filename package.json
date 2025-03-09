@@ -19,7 +19,7 @@
   },
   "config": {},
   "dependencies": {
-    "autoprefixer": "10.4.20",
+    "autoprefixer": "10.4.21",
     "bootstrap": "5.3.3",
     "bootstrap-icons": "1.11.3",
     "postcss": "8.5.3",
