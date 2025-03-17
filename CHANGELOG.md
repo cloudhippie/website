@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.4](https://github.com/cloudhippie/website/compare/v2.2.3...v2.2.4) (2025-03-17)
+
+
+### Bugfixes
+
+* **deps:** update dependency postcss-cli to v11.0.1 ([#108](https://github.com/cloudhippie/website/issues/108)) ([fa963db](https://github.com/cloudhippie/website/commit/fa963db7950441e8021443357778813aeeadc72d))
+
 ## [2.2.3](https://github.com/cloudhippie/website/compare/v2.2.2...v2.2.3) (2025-03-10)
 
 
