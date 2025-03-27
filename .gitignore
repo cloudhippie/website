@@ -1,5 +1,9 @@
 .direnv/
+.devenv/
 
-/node_modules/
-/public/
-/resources/
+node_modules/
+public/
+resources/
+
+.hugo_build.lock
+.pre-commit-config.yaml

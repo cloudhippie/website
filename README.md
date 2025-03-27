@@ -7,8 +7,8 @@ documentation around it, you can find this website at [cloudhippie.de][website].
 
 ## Hosting
 
-The website is hosted on [Netlify][netlify], the website gets automatically
-updated on every push to the `master` branch by our CI system.
+The website is hosted on [Netlify][netlify], the website gets
+automatically updated on every push to the `master` branch.
 
 ## Install
 
@@ -19,13 +19,12 @@ installation of Hugo is out of the scope of this document, so please take the
 
 ## Development
 
-After the installation of [Hugo][hugo] and NodeJS you can easily generate the
-website and serve it on [localhost:1313](http://localhost:1313), just execute
-these commands and stop it with `Ctrl+C`:
+To generate the website and serve it on [localhost:1313](http://localhost:1313)
+just execute this command and stop it with `Ctrl+C`:
 
 ```console
-npm install
-make server
+npm install --ci
+hugo server
 ```
 
 When you are done with your changes just create a pull request, after merging

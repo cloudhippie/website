@@ -3,7 +3,7 @@ repository:
   name: website
   description: Website with documentation
   homepage: https://cloudhippie.de
-  topics: cloudhippie, website, hugo
+  topics: cloudhippie, docs, documentation, website, hugo
 
   private: false
   has_issues: true
@@ -12,8 +12,8 @@ repository:
 
   default_branch: master
 
-  allow_squash_merge: true
-  allow_merge_commit: true
+  allow_squash_merge: false
+  allow_merge_commit: false
   allow_rebase_merge: true
 
   allow_update_branch: true
