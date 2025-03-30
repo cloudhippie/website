@@ -53,12 +53,6 @@ rulesets:
               integration_id: 198092
             - context: general
               integration_id: 15368
-      - type: code_scanning
-        parameters:
-          code_scanning_tools:
-            - tool: CodeQL
-              alerts_threshold: errors
-              security_alerts_threshold: high_or_higher
     bypass_actors:
       - actor_id: 1
         actor_type: OrganizationAdmin
