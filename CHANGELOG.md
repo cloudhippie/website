@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.0](https://github.com/cloudhippie/website/compare/v2.2.4...v2.3.0) (2025-03-31)
+
+
+### Features
+
+* apply new repo structure ([998f0b8](https://github.com/cloudhippie/website/commit/998f0b884428e62d7ceae028f216e4317ae91df7))
+
 ## [2.2.4](https://github.com/cloudhippie/website/compare/v2.2.3...v2.2.4) (2025-03-17)
 
 
