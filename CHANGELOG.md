@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.3.1](https://github.com/cloudhippie/website/compare/v2.3.0...v2.3.1) (2025-04-07)
+
+
+### Bugfixes
+
+* **deps:** update dependency bootstrap to v5.3.4 ([#109](https://github.com/cloudhippie/website/issues/109)) ([51b041d](https://github.com/cloudhippie/website/commit/51b041d5cd086087061ddd6d93438053abf5e1fc))
+* **deps:** update dependency bootstrap to v5.3.5 ([#110](https://github.com/cloudhippie/website/issues/110)) ([580253f](https://github.com/cloudhippie/website/commit/580253f6e642ed7f03d19a0445fc10520766700d))
+
 ## [2.3.0](https://github.com/cloudhippie/website/compare/v2.2.4...v2.3.0) (2025-03-31)
 
 
