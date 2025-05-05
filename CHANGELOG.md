@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.4.0](https://github.com/cloudhippie/website/compare/v2.3.1...v2.4.0) (2025-05-05)
+
+
+### Features
+
+* **deps:** update dependency bootstrap-icons to v1.12.1 ([#112](https://github.com/cloudhippie/website/issues/112)) ([4612b82](https://github.com/cloudhippie/website/commit/4612b8253fc0628bbaddfa18ee2910ab15f17bf3))
+
+
+### Bugfixes
+
+* **deps:** update dependency bootstrap-icons to v1.11.4 ([#111](https://github.com/cloudhippie/website/issues/111)) ([1c77814](https://github.com/cloudhippie/website/commit/1c77814204c40fabd247e0d6c8f8a758a7314b7b))
+
 ## [2.3.1](https://github.com/cloudhippie/website/compare/v2.3.0...v2.3.1) (2025-04-07)
 
 
