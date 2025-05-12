@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.5.0](https://github.com/cloudhippie/website/compare/v2.4.0...v2.5.0) (2025-05-12)
+
+
+### Features
+
+* add some basic welcome page ([ca345ec](https://github.com/cloudhippie/website/commit/ca345ec32f925083527287b3d810ce9dccc806aa))
+* **deps:** update dependency bootstrap-icons to v1.13.0 ([#114](https://github.com/cloudhippie/website/issues/114)) ([8279b85](https://github.com/cloudhippie/website/commit/8279b85bdbc4814ac0e3c92c0453dfac5b580b3d))
+
+
+### Bugfixes
+
+* **deps:** update dependency bootstrap to v5.3.6 ([#113](https://github.com/cloudhippie/website/issues/113)) ([f7102ab](https://github.com/cloudhippie/website/commit/f7102ab498d789ac828da161cbdf95ec9dca9531))
+* **deps:** update dependency bootstrap-icons to v1.13.1 ([#115](https://github.com/cloudhippie/website/issues/115)) ([321dbea](https://github.com/cloudhippie/website/commit/321dbea945934f9ad0d4ef9852b4f7e9aeeb330f))
+
 ## [2.4.0](https://github.com/cloudhippie/website/compare/v2.3.1...v2.4.0) (2025-05-05)
 
 
