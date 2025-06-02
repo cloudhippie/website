@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.5.1](https://github.com/cloudhippie/website/compare/v2.5.0...v2.5.1) (2025-06-02)
+
+
+### Bugfixes
+
+* **deps:** update dependency postcss to v8.5.4 ([#116](https://github.com/cloudhippie/website/issues/116)) ([0d54505](https://github.com/cloudhippie/website/commit/0d54505ee0f4d49283a4aec5e40577e82968b314))
+
 ## [2.5.0](https://github.com/cloudhippie/website/compare/v2.4.0...v2.5.0) (2025-05-12)
 
 
