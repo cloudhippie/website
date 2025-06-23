@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.5.3](https://github.com/cloudhippie/website/compare/v2.5.2...v2.5.3) (2025-06-23)
+
+
+### Bugfixes
+
+* **deps:** update dependency bootstrap to v5.3.7 ([#119](https://github.com/cloudhippie/website/issues/119)) ([c13c342](https://github.com/cloudhippie/website/commit/c13c342fe3f67d0934ceab492f8906851a34748d))
+* **deps:** update dependency postcss to v8.5.6 ([#118](https://github.com/cloudhippie/website/issues/118)) ([616585d](https://github.com/cloudhippie/website/commit/616585de1d8335d5e7c9cc545f273edc24b251ae))
+
 ## [2.5.2](https://github.com/cloudhippie/website/compare/v2.5.1...v2.5.2) (2025-06-16)
 
 
