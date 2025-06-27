@@ -71,7 +71,6 @@
                 };
 
                 packages = with pkgs; [
-                  _1password-cli
                   hugo
                   nixfmt-rfc-style
                 ];
