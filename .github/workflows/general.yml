@@ -18,6 +18,11 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v4
 
+      - name: Setup s5cmd
+        uses: peak/action-setup-s5cmd@main
+        with:
+          version: v2.0.0
+
       - name: Setup nodejs
         uses: actions/setup-node@v4
         with:
