@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.6.0](https://github.com/cloudhippie/website/compare/v2.5.3...v2.6.0) (2025-06-30)
+
+
+### Features
+
+* move website to hcloud object storage ([0fd0487](https://github.com/cloudhippie/website/commit/0fd0487045308f5345ea030990ba219bb8e69583))
+
 ## [2.5.3](https://github.com/cloudhippie/website/compare/v2.5.2...v2.5.3) (2025-06-23)
 
 
