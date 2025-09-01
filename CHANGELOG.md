@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.6.1](https://github.com/cloudhippie/website/compare/v2.6.0...v2.6.1) (2025-09-01)
+
+
+### Bugfixes
+
+* **deps:** update dependency bootstrap to v5.3.8 ([#121](https://github.com/cloudhippie/website/issues/121)) ([ddb825a](https://github.com/cloudhippie/website/commit/ddb825a51aff8d4fec25ca3825126bdc04a1c3f8))
+
 ## [2.6.0](https://github.com/cloudhippie/website/compare/v2.5.3...v2.6.0) (2025-06-30)
 
 
