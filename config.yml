@@ -1,8 +1,11 @@
 ---
+# yaml-language-server: $schema=https://www.schemastore.org/hugo.json
 baseurl: /
 languageCode: en-us
 title: Cloudhippie
-disableKinds: RSS
+
+disableKinds:
+  - rss
 
 params:
   Description: Application hosting platform
