@@ -20,11 +20,6 @@ jobs:
         with:
           token: ${{ secrets.BOT_ACCESS_TOKEN }}
 
-      - name: Setup nodejs
-        uses: actions/setup-node@v5
-        with:
-          node-version: lts/*
-
       - name: Write buildtime
         run: date >| .github/RELEASE
 

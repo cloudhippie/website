@@ -20,9 +20,6 @@ jobs:
         with:
           token: ${{ secrets.BOT_ACCESS_TOKEN }}
 
-      - name: Install deps
-        run: sudo apt update && sudo apt install -y xz-utils
-
       - name: Install nix
         uses: cachix/install-nix-action@v31
 

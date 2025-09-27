@@ -26,7 +26,7 @@ jobs:
       - name: Setup nodejs
         uses: actions/setup-node@v5
         with:
-          node-version: 22.x
+          node-version: lts/*
           cache: npm
 
       - name: Setup hugo
