@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.7.0](https://github.com/cloudhippie/website/compare/v2.6.1...v2.7.0) (2025-10-13)
+
+
+### Features
+
+* use new bucket for website ([959556c](https://github.com/cloudhippie/website/commit/959556cccdfe8771137e6150e2a86a02d126ee97))
+
 ## [2.6.1](https://github.com/cloudhippie/website/compare/v2.6.0...v2.6.1) (2025-09-01)
 
 
