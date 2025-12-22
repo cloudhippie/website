@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.7.2](https://github.com/cloudhippie/website/compare/v2.7.1...v2.7.2) (2025-12-22)
+
+
+### Bugfixes
+
+* **patch:** update dependency autoprefixer to v10.4.23 ([#136](https://github.com/cloudhippie/website/issues/136)) ([4622566](https://github.com/cloudhippie/website/commit/4622566225598c0ec0114a9aa539c2b0d142d4e9))
+
 ## [2.7.1](https://github.com/cloudhippie/website/compare/v2.7.0...v2.7.1) (2025-11-17)
 
 
