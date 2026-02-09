@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.7.3](https://github.com/cloudhippie/website/compare/v2.7.2...v2.7.3) (2026-02-09)
+
+### Dependencies
+
+* **patch:** update dependency autoprefixer to v10.4.24 ([#139](https://github.com/cloudhippie/website/issues/139)) ([7879750](https://github.com/cloudhippie/website/commit/7879750f71275ccb518a298b558f8f231e4f2cd5))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([f28d3c1](https://github.com/cloudhippie/website/commit/f28d3c1d9ba3dbf22f948b4c771d4c9b392361ec))
+* **flake:** updated lockfile [skip ci] ([67633c5](https://github.com/cloudhippie/website/commit/67633c51a0d745c46a66423f8477c73f03488e13))
+* **flake:** updated lockfile [skip ci] ([b86dd9d](https://github.com/cloudhippie/website/commit/b86dd9d7d415f8152fd83a5662147547d8f905e4))
+* **flake:** updated lockfile [skip ci] ([251790b](https://github.com/cloudhippie/website/commit/251790bd47086857d8d78e70a841f64cf2774861))
+* **flake:** updated lockfile [skip ci] ([66ee049](https://github.com/cloudhippie/website/commit/66ee0498e3778245d993e718c003423c54f2ddb6))
+* **flake:** updated lockfile [skip ci] ([c5181c2](https://github.com/cloudhippie/website/commit/c5181c28464263ba393f79d66da58409cf2aae97))
+* **flake:** updated lockfile [skip ci] ([dfa945a](https://github.com/cloudhippie/website/commit/dfa945ae2e0db8ad51cea9bd58ebc13f43fe058c))
+* replace nixfmt package ([7de453e](https://github.com/cloudhippie/website/commit/7de453e2f238649f9d42e1198eafa05757311353))
+* switch nix to a stable channel ([a8c3b81](https://github.com/cloudhippie/website/commit/a8c3b81a84f0ec381c8b47b794351163da81b4b6))
+
 ## [2.7.2](https://github.com/cloudhippie/website/compare/v2.7.1...v2.7.2) (2025-12-22)
 
 
