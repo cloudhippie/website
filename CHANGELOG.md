@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.7.4](https://github.com/cloudhippie/website/compare/v2.7.3...v2.7.4) (2026-03-02)
+
+### Dependencies
+
+* **deps:** lock file maintenance ([33c6d4a](https://github.com/cloudhippie/website/commit/33c6d4a0893b00e9c30ab5c4baa5d6b703506888))
+* **deps:** lock file maintenance ([#141](https://github.com/cloudhippie/website/issues/141)) ([abfc736](https://github.com/cloudhippie/website/commit/abfc73629852d2548031c395d453289b796a8815))
+* **patch:** update dependency autoprefixer to v10.4.27 ([#142](https://github.com/cloudhippie/website/issues/142)) ([2ab54ec](https://github.com/cloudhippie/website/commit/2ab54ecfa45eaf37de616cdcaa1f096939374d9b))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([76c646b](https://github.com/cloudhippie/website/commit/76c646bdb4883bb8a3aaf7995bdd41b2ec1bad3d))
+* **flake:** updated lockfile [skip ci] ([31b9bd0](https://github.com/cloudhippie/website/commit/31b9bd0ed16cbd3d893d2fbd5632564d8fb8e7ef))
+* **flake:** updated lockfile [skip ci] ([fe28c37](https://github.com/cloudhippie/website/commit/fe28c37a13487c53b948afb65379686f633bfadf))
+* **locks:** lock file maintenance ([#143](https://github.com/cloudhippie/website/issues/143)) ([b0e7b74](https://github.com/cloudhippie/website/commit/b0e7b748c231c14be7d38dd53161d5db33300512))
+
 ## [2.7.3](https://github.com/cloudhippie/website/compare/v2.7.2...v2.7.3) (2026-02-09)
 
 ### Dependencies
