@@ -1,5 +1,24 @@
 # Changelog
 
+## [2.7.6](https://github.com/cloudhippie/website/compare/v2.7.5...v2.7.6) (2026-04-13)
+
+### Dependencies
+
+* **patch:** update dependency postcss to v8.5.9 ([#154](https://github.com/cloudhippie/website/issues/154)) ([1079924](https://github.com/cloudhippie/website/commit/107992404ff7bfe494f0e55b7c9f46ac82d4c76f))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([ebdcfbd](https://github.com/cloudhippie/website/commit/ebdcfbd5bbab643c4f1e9782ac1906a0a28f4815))
+* **flake:** updated lockfile [skip ci] ([da45e48](https://github.com/cloudhippie/website/commit/da45e486da3e815fdfa3c44bd1584274dcba62d7))
+* **flake:** updated lockfile [skip ci] ([c14a24b](https://github.com/cloudhippie/website/commit/c14a24bb457c4fa2e19539a9dfd96dd765258ac4))
+* **flake:** updated lockfile [skip ci] ([e7fa57f](https://github.com/cloudhippie/website/commit/e7fa57ff0485d0646d229e25c5050f21907d803a))
+* **flake:** updated lockfile [skip ci] ([dac78b0](https://github.com/cloudhippie/website/commit/dac78b073e3d13e3afa7681298b96bb3714bad21))
+* **locks:** lock file maintenance ([#147](https://github.com/cloudhippie/website/issues/147)) ([da97c4f](https://github.com/cloudhippie/website/commit/da97c4f98b28e55821065e75d9ec85b4978c5396))
+* **locks:** lock file maintenance ([#149](https://github.com/cloudhippie/website/issues/149)) ([52ee3c7](https://github.com/cloudhippie/website/commit/52ee3c7e11e5e8597c5457e03ff1f5a114ba0c9c))
+* **locks:** lock file maintenance ([#151](https://github.com/cloudhippie/website/issues/151)) ([3f161b1](https://github.com/cloudhippie/website/commit/3f161b1179b41dc3f7dbd3070aa2e466911017a4))
+* **locks:** lock file maintenance ([#152](https://github.com/cloudhippie/website/issues/152)) ([fca77f9](https://github.com/cloudhippie/website/commit/fca77f93973b25f76dc01c09ef9e94cf470fe050))
+* **locks:** lock file maintenance ([#155](https://github.com/cloudhippie/website/issues/155)) ([893d992](https://github.com/cloudhippie/website/commit/893d992d8b99b255efb822f3177a8a48e179a5a6))
+
 ## [2.7.5](https://github.com/cloudhippie/website/compare/v2.7.4...v2.7.5) (2026-03-09)
 
 ### Dependencies
