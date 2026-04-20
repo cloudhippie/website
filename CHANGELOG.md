@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.8.0](https://github.com/cloudhippie/website/compare/v2.7.6...v2.8.0) (2026-04-20)
+
+### Dependencies
+
+* **minor:** update dependency autoprefixer to v10.5.0 ([#156](https://github.com/cloudhippie/website/issues/156)) ([6e98914](https://github.com/cloudhippie/website/commit/6e98914ab5f7ce4db7bfa8e5a59f21163574d350))
+* **patch:** update dependency postcss to v8.5.10 ([#157](https://github.com/cloudhippie/website/issues/157)) ([7d79169](https://github.com/cloudhippie/website/commit/7d791692aa7a5ef03a0731d5c6e0155b0aa6bb0d))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([adcc524](https://github.com/cloudhippie/website/commit/adcc5245307799cf57cf5edb1a9e77f378137e34))
+* **locks:** lock file maintenance ([#158](https://github.com/cloudhippie/website/issues/158)) ([cceaf36](https://github.com/cloudhippie/website/commit/cceaf36e947bd76367f11b0041062568505a0927))
+
 ## [2.7.6](https://github.com/cloudhippie/website/compare/v2.7.5...v2.7.6) (2026-04-13)
 
 ### Dependencies
