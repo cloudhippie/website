@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.8.1](https://github.com/cloudhippie/website/compare/v2.8.0...v2.8.1) (2026-05-04)
+
+### Dependencies
+
+* **patch:** update dependency postcss to v8.5.12 ([#160](https://github.com/cloudhippie/website/issues/160)) ([7f15252](https://github.com/cloudhippie/website/commit/7f1525264468df7c6c8beca38a7d3e442f424990))
+* **patch:** update dependency postcss to v8.5.13 ([#161](https://github.com/cloudhippie/website/issues/161)) ([0736003](https://github.com/cloudhippie/website/commit/073600305f2f36c781ca55e24695c65ae4c0f3c9))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([264f4c3](https://github.com/cloudhippie/website/commit/264f4c3efdf6706d9a10f00a3ec4d56479d15173))
+* **flake:** updated lockfile [skip ci] ([46e55bd](https://github.com/cloudhippie/website/commit/46e55bd1383753eb9184c8fa3751b71c481e8fd2))
+* **locks:** lock file maintenance ([#159](https://github.com/cloudhippie/website/issues/159)) ([e582106](https://github.com/cloudhippie/website/commit/e5821060a559429d8fc2b4f2268de0c8d27ebfd0))
+* **locks:** lock file maintenance ([#162](https://github.com/cloudhippie/website/issues/162)) ([026ec32](https://github.com/cloudhippie/website/commit/026ec32db681c53b7cf57443fda192203ddb3ba2))
+
 ## [2.8.0](https://github.com/cloudhippie/website/compare/v2.7.6...v2.8.0) (2026-04-20)
 
 ### Dependencies
