@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.8.3](https://github.com/cloudhippie/website/compare/v2.8.2...v2.8.3) (2026-05-25)
+
+### Dependencies
+
+* **patch:** update dependency postcss to v8.5.15 ([#166](https://github.com/cloudhippie/website/issues/166)) ([84c7191](https://github.com/cloudhippie/website/commit/84c71917f79b12f9a089525760ab3a2659eabc05))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([dddb13d](https://github.com/cloudhippie/website/commit/dddb13dd38de3387c3e59fe144eb4ff86de4eac1))
+* **flake:** updated lockfile [skip ci] ([0459fc4](https://github.com/cloudhippie/website/commit/0459fc4da08ee60786742252022f6b14a0281ef3))
+* **locks:** lock file maintenance ([#165](https://github.com/cloudhippie/website/issues/165)) ([2186586](https://github.com/cloudhippie/website/commit/2186586d56d846b29217c2d1de6d29485b85c15e))
+* **locks:** lock file maintenance ([#167](https://github.com/cloudhippie/website/issues/167)) ([80b1e5d](https://github.com/cloudhippie/website/commit/80b1e5db4920a9d6780987bbb88f449a3b15fb03))
+
 ## [2.8.2](https://github.com/cloudhippie/website/compare/v2.8.1...v2.8.2) (2026-05-11)
 
 ### Dependencies
