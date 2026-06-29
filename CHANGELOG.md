@@ -1,5 +1,7 @@
 # Changelog
 
+## [2.8.4](https://github.com/cloudhippie/website/compare/v2.8.3...v2.8.4) (2026-06-29)
+
 ## [2.8.3](https://github.com/cloudhippie/website/compare/v2.8.2...v2.8.3) (2026-05-25)
 
 ### Dependencies
