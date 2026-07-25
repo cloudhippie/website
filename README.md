@@ -1,21 +1,28 @@
-# Cloudhippie: Documentation
+# Cloudhippie: Website
 
 [![General Workflow](https://github.com/cloudhippie/website/actions/workflows/general.yml/badge.svg)](https://github.com/cloudhippie/website/actions/workflows/general.yml)
 
-Website for the Cloudhippie project including some landing page and a
-documentation around it, you can find this website at [cloudhippie.de][website].
+Website for the Cloudhippie project including some landing page and general
+information about this project and the company behind it, you can find this
+website at [cloudhippie.de][website].
 
-## Hosting
+## Prerequisites
 
-The website is hosted on [Netlify][netlify], the website gets
-automatically updated on every push to the `master` branch.
+We use [mise][mise] to manage all required tools and their versions. Install it
+by following the [official installation instructions][mise-install], then run
+the following commands inside the repository to activate mise and install all
+tools defined in `mise.toml`:
+
+```console
+mise trust
+mise install
+```
 
 ## Install
 
 This website uses the [Hugo][hugo] static site generator. If you are planning to
-contribute you'll want to download and install Hugo on your local machine. The
-installation of Hugo is out of the scope of this document, so please take the
-[official install instructions][install] to get Hugo up and running.
+contribute you'll want to download and install Hugo on your local machine. If
+you are not using [mise][mise] it is up to you to install all required tools.
 
 ## Development
 
@@ -37,7 +44,37 @@ If you find a security issue please contact
 
 ## Contributing
 
-Fork -> Patch -> Push -> Pull Request
+Generally we are following [conventional commits][commits] when we apply
+changes. That way we are able to generate proper changelogs for every release.
+Please use always pull requests to integrate new functionalities or to fix
+issues.
+
+For the release process we are following [semantic versioning][semver] which
+clearly indicates if a new version just resolves bugs, includes new features or
+even includes breaking changes.
+
+After installing the tools via `mise install` as described above set up the
+pre-commit hooks so they run automatically on every commit:
+
+```console
+pre-commit install --hook-type pre-commit --hook-type commit-msg
+```
+
+> `pre-commit` is managed by mise and will be available after `mise install`.
+
+If you have changed something on the source you should simply commit following
+the mentioned conventions:
+
+```console
+git checkout -b feat/new-feature
+git add --all
+git commit -m 'feat: added awesome new feature'
+git push --set-upstream origin feat/new-feature
+```
+
+After pushing your changes into the Git repository you should create a pull
+request on GitHub. If the pull request have been merged and everything built
+fine it will also create automatically a new release at least once a week.
 
 ## Authors
 
@@ -52,8 +89,9 @@ Apache-2.0
 ```console
 Copyright (c) 2023 Cloudhippie <info@cloudhippie.de>
 ```
-
+[mise]: https://mise.jdx.dev/
+[mise-install]: https://mise.jdx.dev/getting-started.html
 [website]: https://cloudhippie.de
-[netlify]: https://www.netlify.co
 [hugo]: https://github.com/spf13/hugo
-[install]: https://gohugo.io/overview/installing/
+[commits]: https://www.conventionalcommits.org/en/v1.0.0/
+[semver]: https://semver.org/

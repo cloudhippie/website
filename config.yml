@@ -1,7 +1,7 @@
 ---
 # yaml-language-server: $schema=https://www.schemastore.org/hugo.json
 baseurl: /
-languageCode: en-us
+locale: en-us
 title: Cloudhippie
 
 disableKinds:
