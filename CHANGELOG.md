@@ -1,5 +1,7 @@
 # Changelog
 
+## [2.8.7](https://github.com/cloudhippie/website/compare/v2.8.6...v2.8.7) (2026-07-27)
+
 ## [2.8.6](https://github.com/cloudhippie/website/compare/v2.8.5...v2.8.6) (2026-07-20)
 
 ## [2.8.5](https://github.com/cloudhippie/website/compare/v2.8.4...v2.8.5) (2026-07-06)
