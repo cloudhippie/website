@@ -3,5 +3,5 @@
 [tools]
 hugo-extended = "0.164.0"
 node = "24"
-pre-commit = "4.6.0"
+pre-commit = "4.6.1"
 s5cmd = "2.3.0"
