@@ -89,6 +89,7 @@ Apache-2.0
 ```console
 Copyright (c) 2023 Cloudhippie <info@cloudhippie.de>
 ```
+
 [mise]: https://mise.jdx.dev/
 [mise-install]: https://mise.jdx.dev/getting-started.html
 [website]: https://cloudhippie.de
