@@ -15,7 +15,7 @@ permissions:
 
 jobs:
   general:
-    runs-on: ubuntu-latest
+    runs-on: cloudhippie
 
     steps:
       - name: Checkout source
